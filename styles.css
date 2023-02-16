@@ -137,11 +137,6 @@ table {
 /* Reset end */
 
 
-/* 
-font-family: 'Big Shoulders Display', cursive;
-font-family: 'Lexend Deca', sans-serif; 
-*/
-
 body {
     min-height: 100vh;
     display: flex;
@@ -196,6 +191,9 @@ button:hover {
     position: absolute;
     bottom: 0px;
     margin: 12px 0;
+    color: hsl(179, 100%, 13%);
+    font-family: 'Lexend Deca', sans-serif;
+
 }
 
 .attribution a {
