@@ -154,6 +154,7 @@ main {
     font-family: 'Lexend Deca', sans-serif;
     display: flex;
     flex-direction: row;
+    margin: 40px 0 0;
 }
 
 h1 {
@@ -246,7 +247,7 @@ button:hover {
 @media only screen and (max-width: 500px) {
     main {
         flex-direction: column;
-        margin: 40px 20px;
+        margin: 88px 20px;
     }
 
     .card-sub {
